@@ -14,6 +14,8 @@ public class assignment4part3 {
 
 interface A {
 	void add(int a, int b);
+
+	
 }
 
 interface B
